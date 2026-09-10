@@ -1,3 +1,4 @@
+#Salut, ca va?
 def calculer_mes_impots(mon_revenu):
     taux = 0
     if mon_revenu > 11497 and mon_revenu <= 29315:
